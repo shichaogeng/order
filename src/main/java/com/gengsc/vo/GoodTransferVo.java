@@ -1,4 +1,4 @@
-package com.dongnaoedu.vo;
+package com.gengsc.vo;
 
 import java.io.Serializable;
 

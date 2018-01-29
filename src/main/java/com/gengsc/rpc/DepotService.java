@@ -1,6 +1,6 @@
-package com.dongnaoedu.rpc;
+package com.gengsc.rpc;
 
-import com.dongnaoedu.vo.GoodTransferVo;
+import com.gengsc.vo.GoodTransferVo;
 
 /**
  * shichaogeng

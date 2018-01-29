@@ -8,7 +8,7 @@
         </encoder>
     </appender>
 
-    <logger name="com.dongnaoedu" level="debug" />
+    <logger name="com.gengsc" level="debug" />
     <logger name="org.springframework">
         <level value="error" />
         <additivity value="false" />

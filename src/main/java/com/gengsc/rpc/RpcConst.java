@@ -1,4 +1,4 @@
-package com.dongnaoedu.rpc;
+package com.gengsc.rpc;
 
 /**
  * shichaogeng

@@ -1,4 +1,4 @@
-package com.dongnaoedu.service;
+package com.gengsc.service;
 
 /**
  * shichaogeng

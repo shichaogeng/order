@@ -1,6 +1,6 @@
-package com.dongnaoedu.service;
+package com.gengsc.service;
 
-import com.dongnaoedu.vo.GoodTransferVo;
+import com.gengsc.vo.GoodTransferVo;
 import com.google.gson.Gson;
 import org.springframework.amqp.core.Message;
 import org.springframework.amqp.core.MessageDeliveryMode;

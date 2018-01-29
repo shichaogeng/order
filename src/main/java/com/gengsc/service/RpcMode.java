@@ -1,8 +1,8 @@
-package com.dongnaoedu.service;
+package com.gengsc.service;
 
-import com.dongnaoedu.rpc.DepotService;
-import com.dongnaoedu.rpc.RpcProxy;
-import com.dongnaoedu.vo.GoodTransferVo;
+import com.gengsc.rpc.DepotService;
+import com.gengsc.rpc.RpcProxy;
+import com.gengsc.vo.GoodTransferVo;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 

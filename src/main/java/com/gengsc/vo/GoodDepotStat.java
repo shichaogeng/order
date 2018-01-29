@@ -1,4 +1,4 @@
-package com.dongnaoedu.vo;
+package com.gengsc.vo;
 
 /**
  * shichaogeng

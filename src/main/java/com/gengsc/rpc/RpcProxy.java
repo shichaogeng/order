@@ -1,4 +1,4 @@
-package com.dongnaoedu.rpc;
+package com.gengsc.rpc;
 
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
